@@ -22,7 +22,9 @@ Este projeto foi desenvolvido como parte do desafio **Santander Dev Week 2023 (D
    pip install pandas google-genai python-dotenv
    python main.py
 
-##🛡️ Segurança e Privacidade
+
+
+🛡️ Segurança e Privacidade
 Este projeto utiliza o Free Tier da API do Gemini. Em conformidade com as políticas do Google, dados sensíveis não são processados, apenas informações técnicas esportivas para fins de estudo.
 
 Feito por Pedro Putinatti
